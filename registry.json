@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "cappyui",
+  "homepage": "https://uiregistry.cappychat.com",
+  "items": [
+    {
+      "name": "ai-chat",
+      "type": "registry:ui",
+      "title": "AI Chat",
+      "description": "Animated AI chat component with typing effects, syntax highlighting, and smooth scrolling.",
+      "files": [
+        {
+          "path": "registry/ai-chat.json",
+          "type": "registry:ui"
+        }
+      ]
+    }
+  ]
+}
